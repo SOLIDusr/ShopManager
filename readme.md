@@ -17,7 +17,10 @@
 
 ## Как установить и запустить проект
 
+```bash
+git clone https://github.com/SOLIDusr/ShopManager
 
+```
 
 ## Как использовать проект
 
